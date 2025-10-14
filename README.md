@@ -220,4 +220,23 @@ pip install -r requirements.txt
 ```
 
 ---
+## Citation
+
+If you use this pipeline in your research or production, please cite:
+```
+@Article{app151910468,
+AUTHOR = {Mkrtchian, Grach and Gorodnichev, Mikhail},
+TITLE = {Patch-Based Transformer–Graph Framework (PTSTG) for Traffic Forecasting in Transportation Systems},
+JOURNAL = {Applied Sciences},
+VOLUME = {15},
+YEAR = {2025},
+NUMBER = {19},
+ARTICLE-NUMBER = {10468},
+URL = {https://www.mdpi.com/2076-3417/15/19/10468},
+ISSN = {2076-3417},
+DOI = {10.3390/app151910468}
+}
+
+
+```
 
